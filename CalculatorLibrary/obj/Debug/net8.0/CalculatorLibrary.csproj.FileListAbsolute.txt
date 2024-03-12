@@ -1,0 +1,11 @@
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.deps.json
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.dll
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.dll
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/refint/CalculatorLibrary.dll
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Calculate/CalculatorLibrary/obj/Debug/net8.0/ref/CalculatorLibrary.dll
